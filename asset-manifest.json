@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f0c653c.css",
+    "main.js": "/static/js/main.5471e2f9.js",
+    "static/js/453.057967c0.chunk.js": "/static/js/453.057967c0.chunk.js",
+    "static/media/logo.png": "/static/media/logo.a7e7538da8b81aef02d3.png",
+    "static/media/start.png": "/static/media/start.98f908ae2de4242ea157.png",
+    "static/media/green_b.png": "/static/media/green_b.13e1accc1a1099260531.png",
+    "static/media/yellow_b.png": "/static/media/yellow_b.9d8dc144a7f176bfc374.png",
+    "static/media/blue_b.png": "/static/media/blue_b.fc49c79f8f45fec66f64.png",
+    "static/media/pink_b.png": "/static/media/pink_b.59c137f95748945cd500.png",
+    "static/media/green_f.png": "/static/media/green_f.2dd7759983de0cecfea2.png",
+    "static/media/blue_f.png": "/static/media/blue_f.22c9359b06917a80b5f1.png",
+    "static/media/yellow_f.png": "/static/media/yellow_f.9bb40418c778b318ba1d.png",
+    "static/media/pink_f.png": "/static/media/pink_f.e81251a169218005e4ca.png",
+    "static/media/infp.png": "/static/media/infp.14b367cdaf4e3ba487af.png",
+    "static/media/esfp.png": "/static/media/esfp.04eb9b134aa3607f289d.png",
+    "static/media/intp.png": "/static/media/intp.b644f329fc9827be0b00.png",
+    "static/media/istj.png": "/static/media/istj.409d742de00833e1beee.png",
+    "static/media/istp.png": "/static/media/istp.203ac888e47aa8ae2187.png",
+    "static/media/estj.png": "/static/media/estj.e96e72f9acfaf90db15e.png",
+    "static/media/esfj.png": "/static/media/esfj.6233b5396dd3b4d24f4b.png",
+    "static/media/isfj.png": "/static/media/isfj.fe0186e8ad771fa30473.png",
+    "static/media/intj.png": "/static/media/intj.b75d2eff2e83e6223541.png",
+    "static/media/enfj.png": "/static/media/enfj.bbadf2c5550b57eef67c.png",
+    "static/media/infj.png": "/static/media/infj.3a575ff52aee62fd441e.png",
+    "static/media/entp.png": "/static/media/entp.98122770a68c01e8f8a9.png",
+    "static/media/estp.png": "/static/media/estp.3d9453a3e16e66945cf4.png",
+    "static/media/enfp.png": "/static/media/enfp.3a010cbad6e1b2ce9151.png",
+    "static/media/isfp.png": "/static/media/isfp.54a9bd37868214ea8cf3.png",
+    "static/media/entj.png": "/static/media/entj.e82d6ac5daa007fb6178.png",
+    "index.html": "/index.html",
+    "main.2f0c653c.css.map": "/static/css/main.2f0c653c.css.map",
+    "main.5471e2f9.js.map": "/static/js/main.5471e2f9.js.map",
+    "453.057967c0.chunk.js.map": "/static/js/453.057967c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f0c653c.css",
+    "static/js/main.5471e2f9.js"
+  ]
+}
