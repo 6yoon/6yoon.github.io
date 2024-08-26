@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27883d47.css",
+    "main.js": "/static/js/main.2ed62454.js",
+    "static/js/453.057967c0.chunk.js": "/static/js/453.057967c0.chunk.js",
+    "static/media/logo.png": "/static/media/logo.a7e7538da8b81aef02d3.png",
+    "static/media/start.png": "/static/media/start.98f908ae2de4242ea157.png",
+    "static/media/infp.png": "/static/media/infp.75829b0cc5f3e41e6c24.png",
+    "static/media/esfp.png": "/static/media/esfp.0c7b5cad8db058fb5fe1.png",
+    "static/media/istj.png": "/static/media/istj.8af41e3235268814305b.png",
+    "static/media/istp.png": "/static/media/istp.62251cd5429f72d7e046.png",
+    "static/media/estj.png": "/static/media/estj.30ee8e6a5d13579f0f17.png",
+    "static/media/enfj.png": "/static/media/enfj.8fa18a4fb8d3befddbc8.png",
+    "static/media/enfp.png": "/static/media/enfp.dd0576a94de458b4d90a.png",
+    "static/media/infj.png": "/static/media/infj.8cb7c23310e4a8a161ef.png",
+    "static/media/esfj.png": "/static/media/esfj.d4ebc0e437fd93bed44c.png",
+    "static/media/intp.png": "/static/media/intp.44bd7410e473b7c40cb5.png",
+    "static/media/isfj.png": "/static/media/isfj.8022cceada0b98def518.png",
+    "static/media/entp.png": "/static/media/entp.3ea2289f87a0fc84d00b.png",
+    "static/media/intj.png": "/static/media/intj.883a5935cb1a51f1f42e.png",
+    "static/media/estp.png": "/static/media/estp.748d3e32f2930ffbe312.png",
+    "static/media/isfp.png": "/static/media/isfp.3b39e934a1757b61c87f.png",
+    "static/media/entj.png": "/static/media/entj.f23f201ff0c42109c565.png",
+    "static/media/green_b.png": "/static/media/green_b.96995b37e07a8849b30d.png",
+    "static/media/yellow_b.png": "/static/media/yellow_b.9aaeb12b70504d5aa76b.png",
+    "static/media/blue_b.png": "/static/media/blue_b.c17e605806df64e527eb.png",
+    "static/media/pink_b.png": "/static/media/pink_b.d5d682562395c5d37970.png",
+    "static/media/quizBtn.png": "/static/media/quizBtn.c16d38d4bc0cc7164648.png",
+    "static/media/button.png": "/static/media/button.b297c8efe94d277d61a7.png",
+    "static/media/pushedButton.png": "/static/media/pushedButton.b907a0a99bf34cb42987.png",
+    "static/media/pushedQuizBtn.png": "/static/media/pushedQuizBtn.668f93db08914542622d.png",
+    "index.html": "/index.html",
+    "main.27883d47.css.map": "/static/css/main.27883d47.css.map",
+    "main.2ed62454.js.map": "/static/js/main.2ed62454.js.map",
+    "453.057967c0.chunk.js.map": "/static/js/453.057967c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27883d47.css",
+    "static/js/main.2ed62454.js"
+  ]
+}
