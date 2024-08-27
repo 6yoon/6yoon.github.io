@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e729da81.css",
-    "main.js": "/static/js/main.8c5b5782.js",
+    "main.js": "/static/js/main.3ddc562c.js",
     "static/js/453.057967c0.chunk.js": "/static/js/453.057967c0.chunk.js",
     "static/media/logo.png": "/static/media/logo.a7e7538da8b81aef02d3.png",
     "static/media/start.png": "/static/media/start.98f908ae2de4242ea157.png",
@@ -25,18 +25,18 @@
     "static/media/yellow_b.png": "/static/media/yellow_b.9aaeb12b70504d5aa76b.png",
     "static/media/blue_b.png": "/static/media/blue_b.c17e605806df64e527eb.png",
     "static/media/pink_b.png": "/static/media/pink_b.d5d682562395c5d37970.png",
-    "static/media/loading.gif": "/static/media/loading.da72edb8fb0523fe26b8.gif",
+    "static/media/loading.gif": "/static/media/loading.37b2d0a1f9fb5c6a570e.gif",
     "static/media/quizBtn.png": "/static/media/quizBtn.c16d38d4bc0cc7164648.png",
     "static/media/button.png": "/static/media/button.b297c8efe94d277d61a7.png",
     "static/media/pushedButton.png": "/static/media/pushedButton.b907a0a99bf34cb42987.png",
     "static/media/pushedQuizBtn.png": "/static/media/pushedQuizBtn.668f93db08914542622d.png",
     "index.html": "/index.html",
     "main.e729da81.css.map": "/static/css/main.e729da81.css.map",
-    "main.8c5b5782.js.map": "/static/js/main.8c5b5782.js.map",
+    "main.3ddc562c.js.map": "/static/js/main.3ddc562c.js.map",
     "453.057967c0.chunk.js.map": "/static/js/453.057967c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e729da81.css",
-    "static/js/main.8c5b5782.js"
+    "static/js/main.3ddc562c.js"
   ]
 }
